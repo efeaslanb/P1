@@ -7,4 +7,4 @@ If something gets within 15 cm, a small fan turns on automatically using a 3V DC
 Built to combine multiple components into one setup and explore how sensors, displays, and motors work together.  
 Had some wiring issues along the way but learned a lot.
 
-The overall goal was to build a small fan I could actually use since it's been super hot this summer.
+The overall goal was to build a small pocket fan I could actually use since it's been super hot this summer.
